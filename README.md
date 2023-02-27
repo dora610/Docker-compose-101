@@ -1,5 +1,5 @@
 ## Build and run app with Compose
-`docker compose up'
+`docker compose up`
 
 ## Run in detached mode
 `docker compose up -d`
